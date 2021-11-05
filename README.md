@@ -14,7 +14,7 @@ Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de códi
 
  Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
 
-Aluno: Joanes
+
 
  **Assuntos abordados neste curso**:
 
