@@ -1,10 +1,10 @@
 # Curso_Python_Pandas_Digital_Innovation
 
-​                															                                    ![Digital Innovation One - Logotipo](D:\Documents\FAFIRE\DIGITALINNOVATION\Análise de dados com Python e Pandas\Digital Innovation One - Logotipo.png)
+​                															                                                                                                                                            ![image](https://i.imgur.com/zFRpBh6.png)
 
 **Aluno:** Joanes Cavalcanti de Araújo 
 
-**Prof: ** Fernanda Santos
+**Prof:** Fernanda Santos
 
 ## Descrição
 
@@ -17,6 +17,7 @@ Neste Labs será apresentada a biblioteca Pandas, uma biblioteca Python de códi
 Aluno: Joanes
 
  **Assuntos abordados neste curso**:
+
  1. Python Básico
  1. Estrutura de dados
  1. Introdução a Biblioteca Pandas
